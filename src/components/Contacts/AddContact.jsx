@@ -173,7 +173,6 @@ const AddContact = () => {
   const handleSubmit = (values, { setSubmitting }) => {
     createContact(values);
     setSubmitting(false);
-
   };
 
 
@@ -200,6 +199,8 @@ const AddContact = () => {
     job: '',
     group: '',
   };
+
+  
 
 
 
@@ -233,7 +234,6 @@ const AddContact = () => {
                   initialValues={initialValues}
                   validationSchema={validationSchema}
                   onSubmit={handleSubmit}
-
                 >
                   {({ isSubmitting }) => (
                     <Form onChange={onContactChange}>
@@ -285,7 +285,7 @@ const AddContact = () => {
                           required={true}
                           placeholder="Job"
                         />
-                        <ErrorMessage name="job" component="div" className="error" />
+                        <ErrorMessage name="job" component="div" className="error text-danger text-start" />
                       </div>
                       <div className="mb-2">
                         <Field
