@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "fullname": "Ali javadiiiiiiiii",
+      "photo": "https://s8.uupload.ir/files/avatar-04_vyti.png",
+      "mobile": "9121112421",
+      "email": "javadi@javadi.com",
+      "job": "programmer",
+      "group": "5",
+      "id": 2
+    },
+    {
+      "fullname": "akbar latifi",
+      "photo": "https://s8.uupload.ir/files/avatar-06_i8a2.png",
+      "mobile": "09368889985",
+      "email": "akbar@latifi.ir",
+      "job": "programmer and teacher",
+      "group": "1",
+      "id": 3
+    },
+    {
+      "fullname": "mohammad kazemi",
+      "photo": "https://s8.uupload.ir/files/avatar-08_kumd.png",
+      "mobile": "09368789658",
+      "email": "mohammad@kazemi.ir",
+      "job": "Programmer",
+      "group": "3",
+      "id": 5
+    },
+    {
+      "fullname": "mohammad ghari",
+      "photo": "https://s8.uupload.ir/files/avatar-01_61ir.png",
+      "mobile": "09093698545",
+      "email": "mohammad@ghari.com",
+      "job": "Programmer",
+      "group": "1",
+      "id": 6
+    },
+    {
+      "photo": "https://s8.uupload.ir/files/avatar-08_kumd.png",
+      "mobile": "09127812356",
+      "email": "parsa.habibi.2002@gmail.com",
+      "job": "developer",
+      "group": "4",
+      "fullname": "parsa",
+      "id": 7
+    },
+    {
+      "fullname": "saman",
+      "photo": "https://s8.uupload.ir/files/avatar-08_kumd.png",
+      "mobile": "0912781235",
+      "email": "parsa.habibi.2002@gmail.com",
+      "job": "developer",
+      "group": "1",
+      "id": 8
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Relatives"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Familiar"
+    }
+  ]
+}
